@@ -1,0 +1,12 @@
+C:\Users\Stephen\Documents\GitHub\DigitalSignageInfo\DigitalSignageInfo\DigitalSignageInfo\bin\Debug\DigitalSignageInfo.exe.config
+C:\Users\Stephen\Documents\GitHub\DigitalSignageInfo\DigitalSignageInfo\DigitalSignageInfo\bin\Debug\DigitalSignageInfo.exe
+C:\Users\Stephen\Documents\GitHub\DigitalSignageInfo\DigitalSignageInfo\DigitalSignageInfo\bin\Debug\DigitalSignageInfo.pdb
+C:\Users\Stephen\Documents\GitHub\DigitalSignageInfo\DigitalSignageInfo\DigitalSignageInfo\obj\Debug\MainWindow.baml
+C:\Users\Stephen\Documents\GitHub\DigitalSignageInfo\DigitalSignageInfo\DigitalSignageInfo\obj\Debug\MainWindow.g.cs
+C:\Users\Stephen\Documents\GitHub\DigitalSignageInfo\DigitalSignageInfo\DigitalSignageInfo\obj\Debug\App.g.cs
+C:\Users\Stephen\Documents\GitHub\DigitalSignageInfo\DigitalSignageInfo\DigitalSignageInfo\obj\Debug\DigitalSignageInfo_MarkupCompile.cache
+C:\Users\Stephen\Documents\GitHub\DigitalSignageInfo\DigitalSignageInfo\DigitalSignageInfo\obj\Debug\DigitalSignageInfo.g.resources
+C:\Users\Stephen\Documents\GitHub\DigitalSignageInfo\DigitalSignageInfo\DigitalSignageInfo\obj\Debug\DigitalSignageInfo.Properties.Resources.resources
+C:\Users\Stephen\Documents\GitHub\DigitalSignageInfo\DigitalSignageInfo\DigitalSignageInfo\obj\Debug\DigitalSignageInfo.csproj.GenerateResource.Cache
+C:\Users\Stephen\Documents\GitHub\DigitalSignageInfo\DigitalSignageInfo\DigitalSignageInfo\obj\Debug\DigitalSignageInfo.exe
+C:\Users\Stephen\Documents\GitHub\DigitalSignageInfo\DigitalSignageInfo\DigitalSignageInfo\obj\Debug\DigitalSignageInfo.pdb
